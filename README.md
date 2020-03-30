@@ -1,9 +1,3 @@
-# The Scientists
-
-[Dynamics of microbial communities in time and space](https://www.youlab.bio/our-research)
-
-[A Blog about Machine Learning, Deep Learning, and Natural Language Processing](https://ruder.io/)
-
 # Job-Application
 
 [Academia_rossibarra](https://github.com/RILAB/statements)
@@ -23,3 +17,9 @@
 [Swiss Plant Science Web](https://swissplantscienceweb.unibas.ch/en/jobs/)
 
 [Germany_Plant](https://pflanzen-molekularbiologie.de/en/positions/#c21665)
+
+# The Scientists
+
+[Dynamics of microbial communities in time and space](https://www.youlab.bio/our-research)
+
+[A Blog about Machine Learning, Deep Learning, and Natural Language Processing](https://ruder.io/)
