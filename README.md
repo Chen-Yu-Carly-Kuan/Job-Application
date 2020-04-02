@@ -22,6 +22,5 @@
 
 # The Scientists
 
-[Dynamics of microbial communities in time and space](https://www.youlab.bio/our-research)
 
 [A Blog about Machine Learning, Deep Learning, and Natural Language Processing](https://ruder.io/)
