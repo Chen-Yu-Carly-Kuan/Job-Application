@@ -18,6 +18,8 @@
 
 [Germany_Plant](https://pflanzen-molekularbiologie.de/en/positions/#c21665)
 
+[Paris](http://ips2.u-psud.fr/en/all-offers/phd.html)
+
 # The Scientists
 
 [Dynamics of microbial communities in time and space](https://www.youlab.bio/our-research)
