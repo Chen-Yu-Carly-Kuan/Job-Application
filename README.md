@@ -1,3 +1,7 @@
+# Great WEB
+
+[Scoop](https://www.scoop.it/)
+
 # Job-Application
 
 [Academia_rossibarra](https://github.com/RILAB/statements)
